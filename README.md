@@ -63,9 +63,11 @@ The solution uses Amazon Bedrock for reasoning and orchestration of governance t
 
 ## Architecture Diagram
 
-Add your architecture diagram image here after you create it.
+!c:\Users\Jlkan\OneDrive\Desktop\AWS Skills\aws-architecture-layout.png
 
-![Architecture Diagram](images/architecture-diagram.png)
+## Agent Workflow Diagram
+
+[text](<../Fundamentals of Machine Learning and Artificial Intelligence.docx>)
 
 ## Repository Structure
 
