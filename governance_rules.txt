@@ -1,0 +1,5 @@
+Amount must be >= 0
+Time cannot be null
+Class must be 0 or 1
+Amount outliers must be flagged
+Duplicate transactions must be detected

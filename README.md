@@ -66,8 +66,7 @@ The solution uses Amazon Bedrock for reasoning and orchestration of governance t
 !c:\Users\Jlkan\OneDrive\Desktop\AWS Skills\aws-architecture-layout.png
 
 ## Agent Workflow Diagram
-
-[text](<../Fundamentals of Machine Learning and Artificial Intelligence.docx>)
+!c:\Users\Jlkan\OneDrive\Desktop\AWS Skills\Fundamentals of Machine Learning and Artificial Intelligence.png
 
 ## Repository Structure
 
