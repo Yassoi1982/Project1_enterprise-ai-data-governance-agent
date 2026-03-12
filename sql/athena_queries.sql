@@ -1,0 +1,10 @@
+SELECT *
+FROM raw
+LIMIT 10;
+
+SELECT COUNT(*)
+FROM raw;
+
+SELECT class, COUNT(*)
+FROM raw
+GROUP BY class;
