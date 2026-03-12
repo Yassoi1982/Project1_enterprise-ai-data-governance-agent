@@ -1,0 +1,7 @@
+Rules = [
+    Mean "amount" > 0,
+    StandardDeviation "amount" > 0,
+    ColumnValues "amount" >= 0,
+    ColumnValues "amount" <= 50000,
+    DistinctValuesCount "class" = 2
+]

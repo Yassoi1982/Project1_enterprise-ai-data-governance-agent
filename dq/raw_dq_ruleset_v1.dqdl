@@ -1,0 +1,7 @@
+Rules = [
+    IsComplete "amount",
+    IsComplete "class",
+    ColumnValues "amount" >= 0,
+    ColumnValues "class" in [0,1],
+    RowCount > 0
+]

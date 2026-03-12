@@ -1,0 +1,4 @@
+Rules = [
+    RowCount > 1000,
+    RowCount < 1000000
+]

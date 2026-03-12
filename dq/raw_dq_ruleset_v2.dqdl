@@ -1,0 +1,8 @@
+Rules = [
+    ColumnDataType "amount" = "Double",
+    ColumnDataType "class" = "Integer",
+    ColumnValues "amount" <= 50000,
+    ColumnExists "amount",
+    ColumnExists "class",
+    DistinctValuesCount "class" = 2
+]

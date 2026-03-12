@@ -1,0 +1,5 @@
+Rules = [
+    ColumnCount > 30,
+    ColumnExists "amount",
+    ColumnExists "class"
+]
